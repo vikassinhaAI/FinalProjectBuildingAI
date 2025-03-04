@@ -4,7 +4,7 @@ Final project for the Building AI course
 
 ## Summary
 
-A quiz based revision system for students especially targetting studends appearing for class Xth CBSE exam in India. The tool will ask questions in a fun manner so that revision doesn't 
+A quiz based revision system for students especially targetting students appearing for class Xth CBSE exam in India. The tool will ask questions in a fun manner so that revision doesn't 
 become a chore. Quirky questions and funny answers can go a long way to make the students retain the answer. The student can ask for a hint and we will design the hint to make him associate 
 the concept with the question being asked.
 
@@ -26,7 +26,7 @@ We can have 2 types of questions :
 Quick Hit: “What gas do plants crave?” (Ans: Carbon dioxide)
 Thinker: “Why does iron blush red?” (Ans: Rust, oxidation)
 
-There will be a reward system for the child but there won't be any score card. The questions can be attempted anytime after completing the chapter. The child can complete a chapter and then  immediately go for a quick revision for that will help him in revision or he could wait for a week and take the quiz to reinforce the concepts. There will be no stress on the child. IN case the child takes more than 30 seconds, the tool will offer a clue. The clue will also be fun based like "It’s a chemical kiss with oxygen" for the question about rust.
+There will be a reward system for the child but there won't be any score card. The questions can be attempted anytime after completing the chapter. The child can complete a chapter and then  immediately go for a quick revision for that will help him in revision or he could wait for a week and take the quiz to reinforce the concepts. There will be no stress on the child. In case the child takes more than 30 seconds, the tool will offer a clue. The clue will also be fun based like "It’s a chemical kiss with oxygen" for the question about rust.
 
 ## Data sources and AI methods
 NCERT Textbooks: Free PDFs at ncert.nic.in—covers all 13 chapters (e.g., Acids, Bases, Salts, Heredity). Core concepts, diagrams, and exercises.
@@ -34,7 +34,7 @@ CBSE Sample Papers: cbseacademic.nic.in has 2024-25 papers—shows question styl
 
 ## Challenges
 
-The tool can't take the place of the books. It is not meant to teach the concepts. RAther, it is a helping hand to make the revision task a bit more enjoyable.
+The tool can't take the place of the books. It is not meant to teach the concepts. Rather, it is a helping hand to make the revision task a bit more enjoyable.
 
 ## What next?
 
