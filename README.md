@@ -11,62 +11,36 @@ the concept with the question being asked.
 
 ## Background
 
-Revising books
+Revising books before exams is boring and children find it difficult to concentrate. It is especially true for children who are not interested in the subject. There are children
+who are not at all interested in Science but CBSE class Xth exam make these students take the Science paper too. The students go for rote method and really struggle. The AI Tool can 
+help them easily revise the concepts. Moreover, if some of them can be made to overcome their fear of the subject, that would be a huge plus. 
+The idea will always be to tap into the study materials publicly available and then use AI to make a question on the fly about a concept. Suppose the student wants to revise Reflection 
+in the Physics subject. About 10-12 questions could be easily conjured to help the child revise the concepts. the AI tool can tap into the last 10 years of Science papers of CBSE to 
+zero upon the concepts that the child needs to be aware of.
 
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+The children preparing for Class Xth CBSE exam are the target audience. The AI tool will help revise the key concepts with funky questions so that the child could enjoy learning and revising the concepts. 
+We can have 2 types of questions :
+Quick Hit: “What gas do plants crave?” (Ans: Carbon dioxide)
+Thinker: “Why does iron blush red?” (Ans: Rust, oxidation)
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
-
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
-
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
-
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
-
+There will be a reward system for the child but there won't be any score card. The questions can be attempted anytime after completing the chapter. The child can complete a chapter and then  immediately go for a quick revision for that will help him in revision or he could wait for a week and take the quiz to reinforce the concepts. There will be no stress on the child. IN case the child takes more than 30 seconds, the tool will offer a clue. The clue will also be fun based like "It’s a chemical kiss with oxygen" for the question about rust.
 
 ## Data sources and AI methods
-Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
-If you need to use links, here's an example:
-[Twitter API](https://developer.twitter.com/en/docs)
-
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title       |
-| Paragraph   | Text        |
+NCERT Textbooks: Free PDFs at ncert.nic.in—covers all 13 chapters (e.g., Acids, Bases, Salts, Heredity). Core concepts, diagrams, and exercises.
+CBSE Sample Papers: cbseacademic.nic.in has 2024-25 papers—shows question styles (MCQs, short answers).
 
 ## Challenges
 
-What does your project _not_ solve? Which limitations and ethical considerations should be taken into account when deploying a solution like this?
+The tool can't take the place of the books. It is not meant to teach the concepts. RAther, it is a helping hand to make the revision task a bit more enjoyable.
 
 ## What next?
 
-How could your project grow and become something even more? What kind of skills, what kind of assistance would you  need to move on? 
+The class XIIth CBSE exam are very difficult for children who take science stream. A question bank to help them revise the concepts would be great but mostly all these resources are not publicly available. One will have to spend time to create a question bank ready for the AI tool. 
 
 
 ## Acknowledgments
 
-* list here the sources of inspiration 
-* do not use code, images, data etc. from others without permission
-* when you have permission to use other people's materials, always mention the original creator and the open source / Creative Commons licence they've used
-  <br>For example: [Sleeping Cat on Her Back by Umberto Salvagnin](https://commons.wikimedia.org/wiki/File:Sleeping_cat_on_her_back.jpg#filelinks) / [CC BY 2.0](https://creativecommons.org/licenses/by/2.0)
-* etc
+Grok was very helpful in fleshing out the idea.
